@@ -1,0 +1,3 @@
+Enter a word starting with J:  Guess 1
+This is not a four letter word!
+The correct answer is --- JABS
